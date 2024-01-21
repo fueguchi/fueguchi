@@ -13,10 +13,9 @@
         <tr>
         <td colspan="1" align="center">
         <br><p><b> learning </b> </p>
-        <a href="#blank">
         <img alt="python" src= "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
         <img alt="html5" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-        <img alt="css" src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> </a>
+        <img alt="css" src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
         </td>
         <td colspan="1" align="center">
         <br><p><b> tools </p></b>
