@@ -7,7 +7,7 @@
       </tr>
       <td colspan="2" align="center">
         <p align="center">
-            <img src="https://i.pinimg.com/originals/93/d7/32/93d7326699a20d07716bc2a01e816975.gif" alt="animated" />
+            <img src="https://i.pinimg.com/originals/78/28/da/7828da13d6629ba31de59a24bb3e6759.gif" alt="animated" />
         </p>
         </td>
         <tr>
