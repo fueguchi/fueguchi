@@ -1,10 +1,3 @@
-<div>
-  <table>
-    <thead>
-      <td>
-        <p>
-            <img src="https://media4.giphy.com/media/udK21RQeWtaGQ/giphy.gif?cid=6c09b952kc04swf107dnphnze23pahtwrawpbqzkckfcx918&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-        </p>
-        </td>
-    </thead>
-    <tbody>
+
+<div align = "center"> <img src="https://i.pinimg.com/originals/70/bd/ef/70bdef64856e0eb1e75b421692091c6b.gif"> </div>
+<div align = "center"><p>the act of taking from others is tantamount to evil.<br>from the moment we are born we continually take something from others.<br>life's a succession of committing sin.</p></div>
